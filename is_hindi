@@ -1,0 +1,587 @@
+HINDI
+Tum	hi	PR_PRP
+Is	hi	DM_DMD
+Duniya	hi	N_NN
+Ki	hi	V_VM
+Sabse	hi	RP_INTF
+Khubsurat	hi	JJ
+Ladki	hi	N_NN
+Ho	hi	PSP
+Girl	en	N_NN
+
+Hardwork	en	N_NN
+ka	hi	PSP
+example	en	N_NN
+is'se	hi	N_NNV
+bada	hi	JJ
+kya	hi	PR_PRQ
+ho	hi	V_VM
+sakta	hi	V_VAUX
+
+..	univ	RD_SYM
+is	hi	DM_DMD
+chakkar	hi	N_NN
+me	hi	PSP
+lunch	en	N_NN
+bhi	hi	RP_RPD
+nahi	hi	RP_NEG
+kiya	hi	V_VM
+
+Is	hi	DM_DMD
+tem	en	N_NN
+se	hi	PSP
+behtar	hi	JJ
+to	hi	PSP
+gali	hi	N_NN
+ke	hi	PSP
+bachy	hi	N_NN
+khelty	hi	V_VM
+hi	hi	V_VAUX
+
+
+
+
+
+
+
+
+
+
+ENGLISH
+it	en	PR_PRP
+is	en	V_VM
+indeed	en	RB_AMN
+,	univ	RD_PUNC
+
+Tabela	hi	N_NN
+is	hi	V_VM
+better	en	JJ
+.	univ	RD_SYM
+
+Nothing	en	N_NN
+is	hi	DM_DMD
+bigger	en	JJ
+than	en	PSP
+COUNTRY	en	N_NN
+HUM	hi	PR_PRP
+INDIAWAALE	hi	N_NN
+Jo	hi	PR_PRL
+KHUSHI	hi	JJ
+INDIA	ne	N_NNP
+Ki	hi	PSP
+JEET	hi	N_NN
+Me	hi	PSP
+milti	hi	V_VM
+
+
+khushi	hi	N_NN
+is	hi	V_VM
+directly	en	RB_AMN
+propotional	en	JJ
+to	en	RP_RPD
+India's	en	N_NNP
+defeat	en	V_VM
+
+
+I	en	PR_PRP
+am	en	V_VM
+getting	en	V_VM
+a	en	DT
+feel	en	V_VM
+that	en	DM_DMD
+Shoib	ne	N_NNP
+akhtar​	ne	N_NNP
+is	en	V_VM
+the	en	DT
+most	en	RB_AMN
+gawar	hi	JJ
+
+saari	hi	QT_QTF
+news	en	N_NN
+feeds	en	V_VM
+inhi	hi	DM_DMD
+se	hi	PSP
+bhari	hi	JJ
+rehti	hi	V_VM
+hain	hi	V_VAUX
+xxx	acro	RD_UNK
+changed	en	V_VM
+is	en	V_VM
+profile	en	N_NN
+...	univ	RD_PUNC
+bevkoofi	hi	N_NN
+dekho	hi	V_VM
+
+
+Avantika	ne	N_NNP
+Garg	ne	N_NNP
+is	en	V_VM
+IIT	en	N_NNP
+experience	en	V_VM
+not	en	RP_NEG
+for	en	PSP
+u	en	PR_PRP
+?	univ	RD_PUNC
+
+I	en	PR_PRP
+have	en	V_VM
+a	en	DT
+huge	en	RB_AMN
+crush	en	N_NN
+on	en	PSP
+a	en	DT
+gal	en	N_NN
+who	en	PR_PRQ
+is	en	V_VM
+in	en	PSP
+EE	acro	N_NNP
+2nd	univ	QT_QTC
+year	en	N_NN
+
+
+karma	ne	N_NNP
+is	en	V_VM
+a	en	DT
+bitch	en	N_NN
+!!	univ	RD_PUNC
+dnt	en	V_VM
+worry	en	V_VM
+
+folder	en	N_NN
+is	en	V_VM
+next	en	RB_ALC
+to	en	RP_RPD
+''	univ	RD_PUNC
+inbox	en	N_NN
+''	univ	RD_PUNC
+folder	en	N_NN
+
+even	en	RB_AMN
+the	en	DT
+innocence	en	N_NN
+is	en	V_VM
+not	en	RP_NEG
+genuine	en	JJ
+now	en	RB_AMN
+
+My	en	DT
+roomie	en	N_NN
+is	en	V_VM
+a	en	DT
+thirdie	en	JJ
+who	en	PR_PRQ
+sleeps	en	V_VM
+naked	en	JJ
+in	en	PSP
+the	en	DT
+night	en	N_NN
+
+I	en	PR_PRP
+think	en	V_VM
+your	en	DT
+roomie	en	N_NN
+is	en	V_VM
+trying	en	V_VM
+to	en	RP_RPD
+tell	en	V_VM
+you	en	PR_PRP
+something	en	N_NN
+
+other	en	JJ
+'	univ	RD_PUNC
+folder	en	N_NN
+is	en	V_VM
+next	en	RB_ALC
+to	en	RP_RPD
+''	univ	RD_PUNC
+inbox	en	N_NN
+''	univ	RD_PUNC
+folder	en	N_NN
+...	univ	RD_PUNC
+
+but	en	CC
+is	en	V_VM
+now	en	RB_AMN
+wasting	en	V_VM
+humongous	en	JJ
+amounts	en	N_NN
+of	en	PSP
+Alumni-time	en	N_NNP
+with	en	PSP
+these	en	DM_DMD
+loooooong	en	JJ
+writeups	en	N_NN
+,	univ	RD_PUNC
+
+This	en	PR_PRL
+confession	en	N_NN
+is	en	V_VM
+as	en	PSP
+draining	en	V_VM
+&	en	CC
+depressing	en	JJ
+as	en	PSP
+reading	en	V_VM
+Fyodor	ne	N_NNP
+Dostoyevsky	ne	N_NNP
+.	univ	RD_PUNC
+If	en	PSP
+time	en	N_NN
+is	en	V_VM
+Money	en	N_NN
+,	univ	RD_PUNC
+then	en	RB_AMN
+not	en	RP_NEG
+only	en	RB_AMN
+is	en	V_VM
+he	hi	V_VAUX
+Bankrupt	en	JJ
+but	en	CC
+is	en	V_VM
+neck-deep	en	JJ
+in	en	PSP
+debt	en	N_NN
+!!	univ	RD_PUNC
+
+what	en	PR_PRQ
+is	en	V_VM
+this	en	PR_PRP
+supposed	en	JJ
+to	en	RP_RPD
+mean	en	V_VM
+?	univ	RD_PUNC
+
+what	en	PR_PRQ
+is	en	V_VM
+this	en	PR_PRP
+supposed	en	JJ
+to	en	RP_RPD
+mean	en	V_VM
+?	univ	RD_PUNC
+
+now	en	RB_AMN
+331	univ	$
+is	en	V_VM
+investigating	en	V_VM
+the	en	DT
+case	en	N_NN
+.	univ	RD_PUNC
+
+Aaaargh	univ	RP_INJ
+!	univ	RD_PUNC
+this	en	PR_PRP
+is	en	V_VM
+sooo	en	PR_PRP
+eerie	en	JJ
+!	univ	RD_PUNC
+.	univ	RD_PUNC
+
+The	en	DT
+laziness	en	N_NNV
+of	en	PSP
+IITB	acro	N_NNP
+profs	en	N_NN
+is	en	V_VM
+unparalleled	en	JJ
+!	univ	RD_PUNC
+As	en	PSP
+
+Except	en	CC
+that	en	DM_DMD
+there	en	PR_PRP
+is	en	V_VM
+always	en	RB_AMN
+one	en	QT_QTO
+proverbial	en	JJ
+shady	en	JJ
+uncooperative	en	JJ
+prof	en	N_NN
+,	univ	RD_PUNC
+who	en	PR_PRQ
+is	en	V_VM
+not	en	RP_NEG
+only	en	RB_AMN
+immune	en	N_NN
+to	en	RP_RPD
+conning	en	V_VM
+,	univ	RD_PUNC
+
+
+He	hi	V_VAUX
+is	en	V_VM
+already	en	RB_AMN
+pissedOff	en	V_VM
+...	univ	RD_PUNC
+
+this	en	PR_PRP
+confession	en	N_NN
+is	en	V_VM
+about	en	PSP
+
+My	en	DT
+hubby	en	N_NN
+is	en	V_VM
+from	en	PSP
+IITB	acro	N_NNP
+,	univ	RD_PUNC
+he	hi	V_VAUX
+is	en	V_VM
+well	en	JJ
+behaved	en	V_VM
+&	en	CC
+knows	en	V_VM
+the	en	DT
+value	en	N_NN
+of	en	PSP
+people	en	N_NN
+and	en	CC
+relationships	en	N_NN
+.	univ	RD_PUN
+
+he	hi	V_VAUX
+is	en	V_VM
+sooooo	en	RB_AMN
+hen-pecked	en	JJ
+by	en	PSP
+U	en	PR_PRP
+!!!	univ	RD_PUNC
+
+A	en	DT
+sucker	en	N_NN
+is	en	V_VM
+born	en	V_VM
+every	en	QT_QTF
+minute	en	N_NN
+
+the	en	DT
+world	en	N_NNP
+is	en	V_VM
+and	en	CC
+how	en	RB_AMN
+Foopid	en	V_VM
+your	en	DT
+ex	en	N_NNP
+is	en	V_VM
+!	univ	RD_PUNC
+	
+
+your	en	DT
+parents	en	N_NN
+love	en	V_VM
+is	en	V_VM
+ultimate	en	JJ
+love	en	V_VM
+which	en	DT
+never	en	RB_AMN
+leaves	en	V_VM
+you	en	PR_PRP
+....	univ	RD_PUNC	
+
+your	en	DT
+life	en	N_NN
+is	en	V_VM
+not	en	RP_NEG
+only	en	RB_AMN
+your's	en	PR_PRP
+your	en	DT
+parents	en	N_NN
+have	en	V_VM
+right	en	RB_AMN
+over	en	PSP
+it	en	PR_PRP
+..	univ	RD_PUNC
+
+live	en	V_VM
+is	en	V_VM
+precious	en	N_NN
+buddy	en	N_NN
+
+So	en	PSP
+that's	en	N_NNV
+wot	en	PR_PRL
+it	en	PR_PRP
+is	en	V_VM
+...	univ	RD_PUNC
+With	en	PSP
+all	en	DT
+those	en	DT
+old	en	JJ
+ladies	en	N_NN
+in	en	PSP
+rocking-chairs	en	N_NN
+!!!	univ	RD_PUNC
+
+
+	univ	RD_PUNC
+Is	hi	DM_DMD
+it	en	PR_PRP
+wrong	en	JJ
+to	en	RP_RPD
+be	en	V_VM
+a	en	DT
+simple	en	JJ
+guy	en	N_NN
+??	univ	RD_PUNC
+
+she	en	PR_PRP
+is	en	V_VM
+not	en	RP_NEG
+worth	en	N_NN
+it	en	PR_PRP
+!	univ	RD_PUNC
+
+
+the	en	DT
+conclusion	en	N_NN
+is	en	V_VM
+the	en	DT
+above	en	PSP
+two	univ	$
+persons	en	N_NN
+saying's	en	V_VM
+are	hi	PSP
+absolutely	en	RB_AMN
+right	en	RB_AMN
+.	univ	RD_PUNC
+
+
+I'm	en	N_NNV
+hoping	en	V_VM
+this	en	PR_PRP
+is	en	V_VM
+a	en	DT
+chick	en	N_NNP
+
+,	univ	RD_PUNC
+I	en	PR_PRP
+guess	en	V_VM
+it	en	PR_PRP
+is	en	V_VM
+that	en	DM_DMD
+awesome	en	JJ
+background	en	JJ
+music	en	N_NN
+...	univ	RD_PUNC
+
+
+This	en	PR_PRL
+is	en	V_VM
+what	en	PR_PRQ
+happens	en	V_VM
+when	en	RB_AMN
+you	en	PR_PRP
+join	en	V_VM
+a	en	DT
+giveup	en	JJ
+internship	en	N_NN
+just	en	JJ
+for	en	PSP
+money	en	N_NN
+....	univ	RD_PUNC
+
+
+
+your	en	DT
+stamina	en	N_NN
+is	en	V_VM
+over	en	PSP
+
+
+This	en	PR_PRL
+is	en	V_VM
+an	en	DT
+Inter-IIT	en	JJ
+love	en	V_VM
+story	en	N_NN
+.	univ	RD_PUNC
+
+
+this	en	PR_PRP
+is	en	V_VM
+funny	univ	JJ
+
+
+he	hi	V_VAUX
+is	en	V_VM
+helping	en	V_VM
+us	hi	PR_PRP
+all	en	DT
+since	en	PSP
+2nd	univ	QT_QTC
+year	en	N_NN
+..!!	univ	RD_PUNC
+
+he	hi	V_VAUX
+is	en	V_VM
+helping	en	V_VM
+many	en	JJ
+students	en	N_NN
+.	univ	RD_PUNC
+Anyways	en	RP_INJ
+
+seems	en	V_VM
+a	en	DT
+fairytale	en	N_NN
+but	en	CC
+anything	en	N_NN
+is	en	V_VM
+possible	en	JJ
+at	en	PSP
+iitb	acro	RD_UNK
+....	univ	RD_PUNC
+
+:	univ	RD_PUNC
+There	en	DT
+is	en	V_VM
+a	en	DT
+fat	en	JJ
+chick	en	N_NNP
+from	en	PSP
+the	en	DT
+insti	en	N_NN
+who	en	PR_PRQ
+uses	en	V_VM
+my	en	DT
+roomie	en	N_NN
+.	univ	RD_PUNC
+
+Why	en	RB_AMN
+is	en	V_VM
+it	en	PR_PRP
+that	en	DM_DMD
+when	en	RB_AMN
+a	en	DT
+boy	en	N_NN
+tries	en	V_VM
+to	en	RP_RPD
+have	en	V_VM
+
+he	hi	V_VAUX
+is	en	V_VM
+called	en	V_VM
+a	en	DT
+\	univ	N_NNP
+"	univ	RD_PUNC
+player\	en	N_NN
+
+she	en	PR_PRP
+is	en	V_VM
+called	en	V_VM
+a	en	DT
+\	univ	N_NNP
+"	univ	RD_PUNC
+
+these	en	DM_DMD
+days	en	N_NN
+is	en	V_VM
+watch	en	V_VM
+porn	en	N_NN
+
+I	en	PR_PRP
+hardly	en	RB_AMN
+see	en	V_VM
+any	en	DT
+guy	en	N_NN
+who	en	PR_PRQ
+is	en	V_VM
+good	en	JJ
